@@ -21,7 +21,7 @@ const init = async () => {
             method: 'GET',
             path: '/info',
             handler: () => {
-                return 'Endpoint info';
+                return 'Info page';
             }
         },
     ])
