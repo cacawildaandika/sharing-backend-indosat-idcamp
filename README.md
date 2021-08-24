@@ -1,3 +1,3 @@
 # sharing-backend-indosat-idcamp
 
-Sharing dengan temen temen indosat idcamp jalur backend mengenai git, conventional commit dan gitflow.
+Sharing dengan temen temen indosat idcamp jalur backend mengenai git, standarization commit message (conventional commit) dan gitflow.
