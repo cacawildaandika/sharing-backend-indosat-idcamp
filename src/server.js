@@ -14,7 +14,11 @@ const init = async () => {
             method: 'GET',
             path: '/',
             handler: () => {
-                return 'Home!';
+                let a = 2;
+                let b = 3;
+
+                let c = a + b;
+                return `Hasil A + B adalah ${c}`;
             }
         },
         {
