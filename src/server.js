@@ -31,6 +31,7 @@ const init = async () => {
                 return 'Contact page';
             }
         },
+        // routing for endpoint about
         {
             method: 'GET',
             path: '/about',
