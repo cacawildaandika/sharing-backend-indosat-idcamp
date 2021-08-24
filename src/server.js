@@ -31,6 +31,13 @@ const init = async () => {
                 return 'Contacccc page';
             }
         },
+        {
+            method: 'GET',
+            path: '/about',
+            handler: () => {
+                return 'About page';
+            }
+        },
     ])
 
     await server.start();
