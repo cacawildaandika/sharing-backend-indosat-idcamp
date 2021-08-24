@@ -28,7 +28,7 @@ const init = async () => {
             method: 'GET',
             path: '/contact',
             handler: () => {
-                return 'Contacccc page';
+                return 'Contact page';
             }
         },
         {
