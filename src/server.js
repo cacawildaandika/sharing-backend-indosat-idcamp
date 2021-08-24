@@ -24,6 +24,13 @@ const init = async () => {
                 return 'Info page';
             }
         },
+        {
+            method: 'GET',
+            path: '/contact',
+            handler: () => {
+                return 'Contacccc page';
+            }
+        },
     ])
 
     await server.start();
