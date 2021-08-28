@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/cacawildaandika/sharing-backend-indosat-idcamp/compare/v1.1.0...v1.1.1) (2021-08-28)
+
+
+### Bug Fixes
+
+* test ([fcaf23b](https://github.com/cacawildaandika/sharing-backend-indosat-idcamp/commit/fcaf23b40ed639cbd3cc34c3e150a12fba1373a1))
+
 ## 1.1.0 (2021-08-24)
 
 
