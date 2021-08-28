@@ -18,7 +18,7 @@ const init = async () => {
                 let b = 3;
 
                 let c = a + b;
-                return `Hasil A + B adalah ${c}`;
+                return `Hasil A + B ${c}`;
             }
         },
         {
